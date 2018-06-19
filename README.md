@@ -1,5 +1,7 @@
 # A-to-A
-        
+
+IN DEVELOPMENT, COMING SOON
+
 ![A-to-A icon](images/a2a_icon_60x60.png) 
 
 ![iphone 1](images/iphone1_small.png) ![iphone 2](images/iphone2_small.png) ![iphone 3](images/iphone3_small.png)
