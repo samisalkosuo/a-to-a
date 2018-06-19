@@ -46,7 +46,7 @@ Many open source libraries are used in the app. See Credits in the app.
 
 ![iphone 1](images/iphone1.png) ![iphone 2](images/iphone2.png) ![iphone 3](images/iphone3.png)
 
-## Images of iPhone app
+## Images of iPad app
 
 ![ipad 1](images/ipad1.png)
 
