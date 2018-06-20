@@ -6,7 +6,7 @@ A-to-A app does not:
 - collect personal information
 - store personal information
 - collect device information
-- not have advertisements
+- have advertisements
 
 A-to-A app does:
 
