@@ -32,6 +32,8 @@ App should be easy to use :-)
   - Save route
   - Clear route
 
+Waypoints can be dragged to new location.
+
 Various settings in drawer view. Purchase Premium also in drawer view.
 
 When in navigation screen, tap route to reroute to the next waypoint.
