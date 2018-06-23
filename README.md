@@ -46,6 +46,10 @@ App icon made by Vectors Market from [www.flaticon.com](https://www.flaticon.com
 
 Many open source libraries are used in the app. See Credits in the app.
 
+## Terms of Use and Privacy Policy
+
+[Terms of Use](TOU.md) and [Privacy Policy](PRIVACY.md).
+
 ## Images of iPhone app
 
 ![iphone 1](images/iphone1.png) ![iphone 2](images/iphone2.png) ![iphone 3](images/iphone3.png)
