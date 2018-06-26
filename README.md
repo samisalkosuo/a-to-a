@@ -1,7 +1,5 @@
 # A-to-A
 
-IN DEVELOPMENT, COMING SOON
-
 ![A-to-A icon](images/a2a_icon_60x60.png) 
 
 ![iphone 1](images/iphone1_small.png) ![iphone 2](images/iphone2_small.png) ![iphone 3](images/iphone3_small.png)
@@ -9,7 +7,7 @@ IN DEVELOPMENT, COMING SOON
 
 When You Want To Go To Where You Already Are.
 
-A-to-A is an iOS application to find you new routes.
+A-to-A is an iOS application to find you new routes. [Get the app](https://itunes.apple.com/us/app/a-to-a/id1356595272?ls=1&mt=8).
 
 ## Example use cases
 
